@@ -1,0 +1,35 @@
+# Annexures {.unnumbered}
+
+**Annexure I: Lorem ipsum dolor sit**
+
+
+```{=latex}
+\clearpage
+```
+
+**Annexure II: Lorem ipsum dolor sit**
+
+
+```{=latex}
+\clearpage
+```
+
+**Annexure II: Lorem ipsum dolor sit**
+
+
+
+```{=latex}
+\clearpage
+```
+
+**Annexure III: Lorem ipsum dolor sit**
+
+
+
+```{=latex}
+\clearpage
+```
+
+**Annexure IV: Lorem ipsum dolor sit**
+
+

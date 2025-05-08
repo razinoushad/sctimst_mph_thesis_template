@@ -1,0 +1,39 @@
+project:
+  type: book
+  output-dir: _output        # rendered PDFs land here
+  resources: [sage-harvard.csl, header.tex, titlepage.tex, references.bib]
+
+bibliography: references.bib
+
+book:
+  chapters:
+    # prelims (automatically get roman numerals)
+    - index.qmd
+    - declaration.qmd
+    - certificate.qmd
+    - abstract.qmd
+    # main matter
+    - introduction.qmd       # page 1 starts here
+    - literature.qmd
+    - methods.qmd
+    - results.qmd
+    - discussion.qmd
+    - references.qmd
+    - appendices.qmd
+
+format:
+  pdf:
+    documentclass: book      # gives front-/main-matter switching
+    classoption: ["oneside"] # “print: one side only”
+    papersize: a4
+    fontsize: 12pt
+    linestretch: 2
+    engine: xelatex          # needed for real Times New Roman
+    include-in-header: header.tex
+    include-before-body: titlepage.tex
+    csl: sage-harvard.csl
+    keep-tex: true           # helpful while debugging
+    toc: false
+    lot: false
+    lof: false
+editor: visual

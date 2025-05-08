@@ -1,0 +1,43 @@
+% ---------- Global layout ----------
+\usepackage{geometry}
+\geometry{a4paper, left=4cm, top=4cm, right=2.5cm, bottom=2.5cm}
+
+
+\usepackage{float}
+
+
+% ---------- Fonts ----------
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+
+% ---------- Line spacing ----------
+\usepackage{setspace}
+\doublespacing                         % double-space body text
+\AtBeginEnvironment{longtable}{\singlespacing} % single-space long tables
+\AtBeginEnvironment{quote}{\singlespacing}      % block quotes
+\AtBeginEnvironment{CSLReferences}{\singlespacing} % references
+
+% ---------- Paragraph style ----------
+\usepackage{indentfirst} 
+\setlength{\parindent}{1.5em}         % first-line indent
+\setlength{\parskip}{0pt}             % no blank lines between paragraphs
+
+\usepackage{needspace}          % provides \Needspace
+\usepackage{etoolbox}
+% before each heading, ensure there’s room for heading + 2 lines of text
+\preto\section   {\Needspace{3\baselineskip}}  
+\preto\subsection{\Needspace{3\baselineskip}}  
+\preto\subsubsection{\Needspace{3\baselineskip}}
+
+% ---------- Page numbering ----------
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}                     % clear default header/foot
+\fancyfoot[C]{\thepage}        % centred page number
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% ---------- Chapter/section styling ----------
+\usepackage{sectsty}
+\allsectionsfont{\bfseries}           % bold chapter & section heads
+\chapterfont{\centering\bfseries\fontsize{18}{22}\selectfont}

@@ -1,0 +1,15 @@
+---
+title: "Introduction"
+---
+
+```{=latex}
+\pagenumbering{arabic}
+```
+
+## Background
+
+This is how we cite an article [@roseSickIndividualsSick].
+
+To learn more about writing in quarto, refer [here](https://quarto.org/docs/guide/).
+
+## Rationale for the study

@@ -1,0 +1,35 @@
+# Certificate {.unnumbered}
+
+Certified that the dissertation titled "**...Thesis Title...**" is a record of the research work undertaken by \[candidate name\] in partial fulfillment of the requirements for the award of the degree of “Master of Public Health” under my guidance and supervision.
+
+\vspace{2.5cm}
+
+\noindent ...Guide Name...\
+..Position..\
+Achutha Menon Centre for Health Science Studies\
+Sree Chitra Tirunal Institute for Medical Sciences and Technology\
+Thiruvananthapuram, Kerala, India - 695011\
+..Month Year..
+
+```{=latex}
+% ------------- TOC, LoT, LoF — single-spaced -------------
+
+\begingroup\singlespacing      % TOC single-spaced
+\tableofcontents
+\endgroup
+\cleardoublepage
+
+\begingroup\singlespacing      % LoT single-spaced
+\listoftables
+\endgroup
+\cleardoublepage
+
+\begingroup\singlespacing      % LoF single-spaced
+\listoffigures
+\endgroup
+\cleardoublepage              % leaves a clean sheet for Introduction
+```
+
+## Glossary of Abbreviations
+
+

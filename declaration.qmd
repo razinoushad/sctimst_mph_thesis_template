@@ -1,0 +1,11 @@
+# Declaration {.unnumbered}
+
+I hereby declare that this dissertation titled "**...Thesis Title...**" is the bonafide record of my original research. It has not been submitted to any other university or institution for the award of any degree or diploma. Information derived from the published or unpublished work of others has been duly acknowledged in the text.
+
+\vspace{2.5cm}
+
+\noindent ...Candidate Name...\
+Achutha Menon Centre for Health Science Studies\
+Sree Chitra Tirunal Institute for Medical Sciences and Technology\
+Thiruvananthapuram, Kerala, India - 695011\
+..Month Year..
