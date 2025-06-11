@@ -2,21 +2,13 @@
 
 **Annexure I: Lorem ipsum dolor sit**
 
+Enter the text here. If you have attachments, you can embed them here.
 
 ```{=latex}
 \clearpage
 ```
 
 **Annexure II: Lorem ipsum dolor sit**
-
-
-```{=latex}
-\clearpage
-```
-
-**Annexure II: Lorem ipsum dolor sit**
-
-
 
 ```{=latex}
 \clearpage
@@ -24,12 +16,8 @@
 
 **Annexure III: Lorem ipsum dolor sit**
 
-
-
 ```{=latex}
 \clearpage
 ```
 
 **Annexure IV: Lorem ipsum dolor sit**
-
-

@@ -30,6 +30,12 @@ Thiruvananthapuram, Kerala, India - 695011\
 \cleardoublepage              % leaves a clean sheet for Introduction
 ```
 
-## Glossary of Abbreviations
+## Glossary of Abbreviations {.unnumbered .unlisted}
 
-
+| Abbreviation | Full Form               |
+|--------------|-------------------------|
+| MPH          | Master of Public Health |
+|              |                         |
+|              |                         |
+|              |                         |
+|              |                         |

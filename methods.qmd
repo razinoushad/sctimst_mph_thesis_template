@@ -5,8 +5,47 @@ title: "Methods"
 ## Study Design
 
 
-
 ## Study Setting
 
+
+## Study Population
+
+
+## Sample Size Estimation
+
+
+## Sample Selection Procedures
+
+
+## Subject Selection
+
+### Inclusion Criteria
+
+### Exclusion Criteria
+
+
+## Study Duration
+
+
+## Data Collection Process
+
+
+## Data Collection Tools
+
+
+## Data Entry and Storage
+
+
+## Operational Definition of Variables
+
+### Outcome Variable
+
+### Independent Variable
+
+
+## Data Analysis
+
+
+## Ethical Consideration
 
 
